@@ -1,0 +1,30 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.header{
+    -fx-background-color: #0000ff;
+}
+.homeBTNS:hover {
+    -fx-background-color: #ff895e;
+}
+.image1{
+	-fx-background-image: url("img/1.jpg");	
+	-fx-background-size: 100%;		
+    -fx-background-repeat: no-repeat;    
+}
+.image2{
+	-fx-background-image: url("img/2.jpg");	
+	-fx-background-size: 100%;		
+    -fx-background-repeat: no-repeat;
+    
+}	
+.image3{
+	-fx-background-image: url("img/3.jpg");	
+	-fx-background-size: 100%;		
+    -fx-background-repeat: no-repeat;
+   
+}
+.image4{
+	-fx-background-image: url("img/4.jpg");	
+	-fx-background-size: 100%;		
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
